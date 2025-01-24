@@ -1,4 +1,13 @@
-Fondé en 1821, l'École nationale des chartes est un grand établissement français d’enseignement supérieur, intégré à l'Université Paris Sciences et Lettres (PSL), qui forme à l’analyse et à la conservation des sources historiques, aux sciences auxiliaires de l’histoire et à l'exploitation des données par les technologies numériques.
+<div style="display: flex; align-items: center; justify-content: center; text-align: justify; gap: 20px; max-width: 800px; margin: auto;">
+    <img src="logo-chartes.png" width="200" alt="Logo Chartes" align="left">
+    <p >
+      <br>
+  <br>
+        Fondé en 1821, l'<b>École nationale des chartes</b> est un grand établissement français d’enseignement supérieur, intégré à l'Université Paris Sciences et Lettres (PSL), qui forme à l’analyse et à la conservation des sources historiques, aux sciences auxiliaires de l’histoire et à l'exploitation des données par les technologies numériques.
+    </p>
+  <br>
+  <br>
+</div>
 
 ### Applications & ressources : 
 
@@ -8,7 +17,7 @@ Fondé en 1821, l'École nationale des chartes est un grand établissement fran�
 
 - [https://huggingface.co/ENC-PSL](https://huggingface.co/ENC-PSL)
 
-### Stack technologique
+### Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
