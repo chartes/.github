@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center; text-align: justify; gap: 20px; max-width: 800px; margin: auto;">
-    <img src="logo-chartes.png" width="200" alt="Logo Chartes" align="left">
+    <img src="logo-chartes.png" width="160" alt="Logo Chartes" align="left">
     <p >
       <br>
   <br>
