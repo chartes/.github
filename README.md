@@ -8,15 +8,15 @@
     <br>
 </div>
 
-### Applications & ressources
+### 📜 Applications & ressources
 
 - [Applications, éditions et jeux de données](https://www.chartes.psl.eu/recherche/applications-editions-et-jeux-de-donnees)
 
-### ENC-PSL organisation sur 🤗 Hugging Face
+### 🤗 ENC-PSL organisation sur Hugging Face
 
 - [Organisation Hugging Face](https://huggingface.co/ENC-PSL)
 
-### Stack technique
+### ⚙️ Stack technique
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
