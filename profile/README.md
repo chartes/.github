@@ -3,7 +3,7 @@
     <p >
       <br>
   <br>
-        Fondé en 1821, l'<b>École nationale des chartes</b> est un grand établissement français d’enseignement supérieur, intégré à l'Université Paris Sciences et Lettres (PSL), qui forme à l’analyse et à la conservation des sources historiques, aux sciences auxiliaires de l’histoire et à l'exploitation des données par les technologies numériques.
+        Fondée en 1821, l'<b>École nationale des chartes</b> est un grand établissement français d’enseignement supérieur intégré à l'Université Paris Sciences et Lettres (PSL), qui forme à l’analyse et à la conservation des sources historiques, aux sciences auxiliaires de l’histoire et à l'exploitation des données par les technologies numériques.
     </p>
     <br>
 </div>
