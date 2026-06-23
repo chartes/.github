@@ -39,6 +39,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BaseX](https://img.shields.io/badge/BaseX-10\+-red?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<br>
+<hr>
 <div style="
     display: flex;
     align-items: center;
@@ -47,19 +49,20 @@
     gap: 20px;
     max-width: 800px;
     margin: auto;
-    padding: 20px;
+    padding: 50px;
     border: 1px solid #cccccc;
     border-radius: 8px;
 ">
     <img
-        src="logo-dots.png"
-        width="160"
+        src="../dots-logo-retro.drawio.svg"
+        width="150"
         alt="Logo DoTS"
         style="display: block;"
         align="left"
     >
-    <p style="margin: 0;">
+    <br>
+    <p style="margin: 10;">
         You need to publish a scholarly digital edition?
-        Check <a href="#">DoTS-Suite</a>.
+        Check <a href="https://github.com/dots-suite">DoTS-suite organisation</a>.
     </p>
 </div>
