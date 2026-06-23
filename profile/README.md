@@ -1,11 +1,25 @@
-<div style="display: flex; align-items: center; justify-content: center; text-align: justify; gap: 20px; max-width: 800px; margin: auto;">
-    <img src="../logo-chartes.png" width="160" alt="Logo Chartes" align="left">
-    <p >
-      <br>
-  <br>
-        Fondée en 1821, l'<b>École nationale des chartes</b> est un grand établissement français d’enseignement supérieur intégré à l'Université Paris Sciences et Lettres (PSL), qui forme à l’analyse et à la conservation des sources historiques, aux sciences auxiliaires de l’histoire et à l'exploitation des données par les technologies numériques.
+<div style="
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1000px;
+    margin: auto;
+    gap: 40px;
+">
+    <img
+        src="../logo-banner-enc.png"
+        width="500"
+        alt="Logo Chartes"
+        style="display: block; max-width: 100%; height: auto;"
+    >
+    <p style="text-align: justify; margin: 0;">
+        Fondée en 1821, l'<b>École nationale des chartes</b> est un grand
+        établissement français d’enseignement supérieur intégré à
+        l'Université Paris Sciences et Lettres (PSL), qui forme à l’analyse
+        et à la conservation des sources historiques, aux sciences
+        auxiliaires de l’histoire et à l'exploitation des données par les
+        technologies numériques.
     </p>
-    <br>
 </div>
 
 ### 📜 Applications & ressources
